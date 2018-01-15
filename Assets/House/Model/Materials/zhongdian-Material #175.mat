@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'zhongdian-Material #175'
+  m_Shader: {fileID: 4800000, guid: cc609bd3d3536ea4db4cdf8771a40ef9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 95e8a21b902cdc4448b9a32f5c3c5a83, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: e8697986257f6784492e61f359848f89, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Ref
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: 0.58
+      data:
+        first:
+          name: _Distortion
+        second: 0
+      data:
+        first:
+          name: _BlendLevel
+        second: 1
+      data:
+        first:
+          name: _Bumpness
+        second: 0.45
+      data:
+        first:
+          name: _RefRate
+        second: 0.21
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 0.6103448, g: 0.6103448, b: 0.6103448, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0.8862069, g: 0.8862069, b: 0.8862069, a: 1}
+      data:
+        first:
+          name: _RefColor
+        second: {r: 0.6655173, g: 0.6655173, b: 0.6655173, a: 1}

@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 20cacd7eaadc6294d9a0e48597ab102e
+timeCreated: 1465331290
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arc02
+    100002: Arc03
+    100004: Arch46_014_1
+    100006: Arch46_014_2
+    100008: Arch46_018_1
+    100010: Arch46_018_2
+    100012: Arch46_018_2_MeshPart0
+    100014: Arch46_018_2_MeshPart1
+    100016: Arch46_024_1
+    100018: Arch46_024_2
+    100020: Arch46_024_3
+    100022: Arch46_047_06
+    100024: Arch46_047_07
+    100026: Arch46_048_09
+    100028: Arch46_048_10
+    100030: Arch46_048_11
+    100032: Arch46_048_12
+    100034: Arch46_048_13
+    100036: baseboard
+    100038: Box006
+    100040: Box01
+    100042: Box04
+    100044: Box04 1
+    100046: Box05
+    100048: Box05 1
+    100050: ChamferBox02
+    100052: Circle01
+    100054: Circle04
+    100056: Circle05
+    100058: Circle05 1
+    100060: Circle06
+    100062: Circle34
+    100064: Cylinder009
+    100066: Cylinder01
+    100068: Cylinder02
+    100070: Cylinder02 1
+    100072: Cylinder08
+    100074: Cylinder08 1
+    100076: light-big
+    100078: light-big 1
+    100080: Line03
+    100082: Line03 1
+    100084: Line04
+    100086: Line12
+    100088: Line18
+    100090: //RootNode
+    100092: obj_02
+    100094: obj_05
+    100096: obj_05 1
+    100098: obj_06
+    100100: obj_07
+    100102: Object01
+    100104: Object02
+    100106: Object03
+    100108: Object04
+    100110: Object05
+    100112: Object06
+    100114: Rectangle01
+    100116: Rectangle13
+    100118: Rectangle14
+    100120: Rectangle15
+    100122: Rectangle17
+    100124: Rectangle18
+    100126: Rectangle21
+    100128: Rectangle39
+    100130: Rectangle42
+    100132: Rectangle43
+    100134: Rectangle74
+    100136: Shape02
+    100138: Sphere01
+    100140: Sphere02
+    100142: Sphere02 1
+    100144: Sphere03
+    100146: Sphere04
+    100148: support04
+    100150: Torus04
+    100152: Tube02
+    400000: Arc02
+    400002: Arc03
+    400004: Arch46_014_1
+    400006: Arch46_014_2
+    400008: Arch46_018_1
+    400010: Arch46_018_2
+    400012: Arch46_018_2_MeshPart0
+    400014: Arch46_018_2_MeshPart1
+    400016: Arch46_024_1
+    400018: Arch46_024_2
+    400020: Arch46_024_3
+    400022: Arch46_047_06
+    400024: Arch46_047_07
+    400026: Arch46_048_09
+    400028: Arch46_048_10
+    400030: Arch46_048_11
+    400032: Arch46_048_12
+    400034: Arch46_048_13
+    400036: baseboard
+    400038: Box006
+    400040: Box01
+    400042: Box04
+    400044: Box04 1
+    400046: Box05
+    400048: Box05 1
+    400050: ChamferBox02
+    400052: Circle01
+    400054: Circle04
+    400056: Circle05
+    400058: Circle05 1
+    400060: Circle06
+    400062: Circle34
+    400064: Cylinder009
+    400066: Cylinder01
+    400068: Cylinder02
+    400070: Cylinder02 1
+    400072: Cylinder08
+    400074: Cylinder08 1
+    400076: light-big
+    400078: light-big 1
+    400080: Line03
+    400082: Line03 1
+    400084: Line04
+    400086: Line12
+    400088: Line18
+    400090: //RootNode
+    400092: obj_02
+    400094: obj_05
+    400096: obj_05 1
+    400098: obj_06
+    400100: obj_07
+    400102: Object01
+    400104: Object02
+    400106: Object03
+    400108: Object04
+    400110: Object05
+    400112: Object06
+    400114: Rectangle01
+    400116: Rectangle13
+    400118: Rectangle14
+    400120: Rectangle15
+    400122: Rectangle17
+    400124: Rectangle18
+    400126: Rectangle21
+    400128: Rectangle39
+    400130: Rectangle42
+    400132: Rectangle43
+    400134: Rectangle74
+    400136: Shape02
+    400138: Sphere01
+    400140: Sphere02
+    400142: Sphere02 1
+    400144: Sphere03
+    400146: Sphere04
+    400148: support04
+    400150: Torus04
+    400152: Tube02
+    2300000: Arc02
+    2300002: Arc03
+    2300004: Arch46_014_1
+    2300006: Arch46_014_2
+    2300008: Arch46_018_1
+    2300010: Arch46_018_2_MeshPart0
+    2300012: Arch46_018_2_MeshPart1
+    2300014: Arch46_024_1
+    2300016: Arch46_024_2
+    2300018: Arch46_024_3
+    2300020: Arch46_047_06
+    2300022: Arch46_047_07
+    2300024: Arch46_048_09
+    2300026: Arch46_048_10
+    2300028: Arch46_048_11
+    2300030: Arch46_048_12
+    2300032: Arch46_048_13
+    2300034: baseboard
+    2300036: Box006
+    2300038: Box01
+    2300040: Box04
+    2300042: Box04 1
+    2300044: Box05
+    2300046: Box05 1
+    2300048: ChamferBox02
+    2300050: Circle01
+    2300052: Circle04
+    2300054: Circle05
+    2300056: Circle05 1
+    2300058: Circle06
+    2300060: Circle34
+    2300062: Cylinder009
+    2300064: Cylinder01
+    2300066: Cylinder02
+    2300068: Cylinder02 1
+    2300070: Cylinder08
+    2300072: Cylinder08 1
+    2300074: light-big
+    2300076: light-big 1
+    2300078: Line03
+    2300080: Line03 1
+    2300082: Line04
+    2300084: Line12
+    2300086: Line18
+    2300088: obj_02
+    2300090: obj_05
+    2300092: obj_05 1
+    2300094: obj_06
+    2300096: obj_07
+    2300098: Object01
+    2300100: Object02
+    2300102: Object03
+    2300104: Object04
+    2300106: Object05
+    2300108: Object06
+    2300110: Rectangle01
+    2300112: Rectangle13
+    2300114: Rectangle14
+    2300116: Rectangle15
+    2300118: Rectangle17
+    2300120: Rectangle18
+    2300122: Rectangle21
+    2300124: Rectangle39
+    2300126: Rectangle42
+    2300128: Rectangle43
+    2300130: Rectangle74
+    2300132: Shape02
+    2300134: Sphere01
+    2300136: Sphere02
+    2300138: Sphere02 1
+    2300140: Sphere03
+    2300142: Sphere04
+    2300144: support04
+    2300146: Torus04
+    2300148: Tube02
+    3300000: Arc02
+    3300002: Arc03
+    3300004: Arch46_014_1
+    3300006: Arch46_014_2
+    3300008: Arch46_018_1
+    3300010: Arch46_018_2_MeshPart0
+    3300012: Arch46_018_2_MeshPart1
+    3300014: Arch46_024_1
+    3300016: Arch46_024_2
+    3300018: Arch46_024_3
+    3300020: Arch46_047_06
+    3300022: Arch46_047_07
+    3300024: Arch46_048_09
+    3300026: Arch46_048_10
+    3300028: Arch46_048_11
+    3300030: Arch46_048_12
+    3300032: Arch46_048_13
+    3300034: baseboard
+    3300036: Box006
+    3300038: Box01
+    3300040: Box04
+    3300042: Box04 1
+    3300044: Box05
+    3300046: Box05 1
+    3300048: ChamferBox02
+    3300050: Circle01
+    3300052: Circle04
+    3300054: Circle05
+    3300056: Circle05 1
+    3300058: Circle06
+    3300060: Circle34
+    3300062: Cylinder009
+    3300064: Cylinder01
+    3300066: Cylinder02
+    3300068: Cylinder02 1
+    3300070: Cylinder08
+    3300072: Cylinder08 1
+    3300074: light-big
+    3300076: light-big 1
+    3300078: Line03
+    3300080: Line03 1
+    3300082: Line04
+    3300084: Line12
+    3300086: Line18
+    3300088: obj_02
+    3300090: obj_05
+    3300092: obj_05 1
+    3300094: obj_06
+    3300096: obj_07
+    3300098: Object01
+    3300100: Object02
+    3300102: Object03
+    3300104: Object04
+    3300106: Object05
+    3300108: Object06
+    3300110: Rectangle01
+    3300112: Rectangle13
+    3300114: Rectangle14
+    3300116: Rectangle15
+    3300118: Rectangle17
+    3300120: Rectangle18
+    3300122: Rectangle21
+    3300124: Rectangle39
+    3300126: Rectangle42
+    3300128: Rectangle43
+    3300130: Rectangle74
+    3300132: Shape02
+    3300134: Sphere01
+    3300136: Sphere02
+    3300138: Sphere02 1
+    3300140: Sphere03
+    3300142: Sphere04
+    3300144: support04
+    3300146: Torus04
+    3300148: Tube02
+    4300000: Line03
+    4300002: Line04
+    4300004: Object05
+    4300006: Object06
+    4300008: Rectangle39
+    4300010: Arch46_047_06
+    4300012: Rectangle74
+    4300014: Arch46_047_07
+    4300016: Rectangle21
+    4300018: support04
+    4300020: Tube02
+    4300022: Line18
+    4300024: Line03
+    4300026: Sphere02
+    4300028: Rectangle17
+    4300030: Rectangle18
+    4300032: Rectangle15
+    4300034: Arch46_014_2
+    4300036: Arch46_014_1
+    4300038: Arch46_018_1
+    4300040: Arch46_018_2_MeshPart0
+    4300042: Arch46_018_2_MeshPart1
+    4300044: obj_07
+    4300046: obj_06
+    4300048: obj_05
+    4300050: obj_05
+    4300052: obj_02
+    4300054: Rectangle43
+    4300056: Rectangle13
+    4300058: Rectangle14
+    4300060: Rectangle42
+    4300062: light-big
+    4300064: light-big
+    4300066: Arch46_024_1
+    4300068: Arch46_024_3
+    4300070: Arch46_024_2
+    4300072: Circle34
+    4300074: Arc03
+    4300076: Circle06
+    4300078: Circle05
+    4300080: Cylinder02
+    4300082: Torus04
+    4300084: Box04
+    4300086: Box05
+    4300088: Line12
+    4300090: ChamferBox02
+    4300092: Arch46_048_13
+    4300094: Arch46_048_12
+    4300096: Arch46_048_11
+    4300098: Arch46_048_10
+    4300100: Arch46_048_09
+    4300102: Rectangle01
+    4300104: Cylinder02
+    4300106: Cylinder01
+    4300108: Box05
+    4300110: Box04
+    4300112: Arc02
+    4300114: Circle04
+    4300116: Circle01
+    4300118: Cylinder08
+    4300120: Cylinder08
+    4300122: Shape02
+    4300124: Box006
+    4300126: Sphere02
+    4300128: Sphere03
+    4300130: Sphere04
+    4300132: Sphere01
+    4300134: Object04
+    4300136: Object03
+    4300138: Box01
+    4300140: Object02
+    4300142: Object01
+    4300144: Circle05
+    4300146: baseboard
+    4300148: Cylinder009
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

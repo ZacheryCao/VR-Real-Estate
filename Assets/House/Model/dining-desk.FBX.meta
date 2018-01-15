@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 04abcaefe6a02844fba9a9e14cd56e66
+timeCreated: 1465414948
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chairlegs
+    100002: chairlegs 1
+    100004: chairlegs 10
+    100006: chairlegs 11
+    100008: chairlegs 12
+    100010: chairlegs 13
+    100012: chairlegs 14
+    100014: chairlegs 15
+    100016: chairlegs 16
+    100018: chairlegs 17
+    100020: chairlegs 2
+    100022: chairlegs 3
+    100024: chairlegs 4
+    100026: chairlegs 5
+    100028: chairlegs 6
+    100030: chairlegs 7
+    100032: chairlegs 8
+    100034: chairlegs 9
+    100036: Chairsurface01
+    100038: Chairsurface02
+    100040: Chairsurface03
+    100042: Chairsurface04
+    100044: Chairsurface05
+    100046: Chairsurface06
+    100048: Chopstick01
+    100050: Chopstick02
+    100052: Chopstick03
+    100054: Chopstick04
+    100056: Chopstick05
+    100058: Chopstick06
+    100060: Chopstick07
+    100062: Chopstick08
+    100064: Chopstick09
+    100066: Chopstick10
+    100068: Chopstick11
+    100070: Chopstick12
+    100072: deskleg01
+    100074: deskleg02
+    100076: deskleg03
+    100078: deskleg04
+    100080: desksurface
+    100082: //RootNode
+    100084: dishes
+    100086: dishes 1
+    100088: dishes 10
+    100090: dishes 11
+    100092: dishes 12
+    100094: dishes 13
+    100096: dishes 14
+    100098: dishes 15
+    100100: dishes 16
+    100102: dishes 17
+    100104: dishes 2
+    100106: dishes 3
+    100108: dishes 4
+    100110: dishes 5
+    100112: dishes 6
+    100114: dishes 7
+    100116: dishes 8
+    100118: dishes 9
+    100120: flower
+    100122: flower02
+    100124: flowerleaves
+    100126: flowervase
+    100128: glass-cup
+    100130: glass-cup 1
+    100132: glass-cup 2
+    100134: glass-cup 3
+    100136: glass-cup 4
+    100138: glass-cup 5
+    400000: chairlegs
+    400002: chairlegs 1
+    400004: chairlegs 10
+    400006: chairlegs 11
+    400008: chairlegs 12
+    400010: chairlegs 13
+    400012: chairlegs 14
+    400014: chairlegs 15
+    400016: chairlegs 16
+    400018: chairlegs 17
+    400020: chairlegs 2
+    400022: chairlegs 3
+    400024: chairlegs 4
+    400026: chairlegs 5
+    400028: chairlegs 6
+    400030: chairlegs 7
+    400032: chairlegs 8
+    400034: chairlegs 9
+    400036: Chairsurface01
+    400038: Chairsurface02
+    400040: Chairsurface03
+    400042: Chairsurface04
+    400044: Chairsurface05
+    400046: Chairsurface06
+    400048: Chopstick01
+    400050: Chopstick02
+    400052: Chopstick03
+    400054: Chopstick04
+    400056: Chopstick05
+    400058: Chopstick06
+    400060: Chopstick07
+    400062: Chopstick08
+    400064: Chopstick09
+    400066: Chopstick10
+    400068: Chopstick11
+    400070: Chopstick12
+    400072: deskleg01
+    400074: deskleg02
+    400076: deskleg03
+    400078: deskleg04
+    400080: desksurface
+    400082: //RootNode
+    400084: dishes
+    400086: dishes 1
+    400088: dishes 10
+    400090: dishes 11
+    400092: dishes 12
+    400094: dishes 13
+    400096: dishes 14
+    400098: dishes 15
+    400100: dishes 16
+    400102: dishes 17
+    400104: dishes 2
+    400106: dishes 3
+    400108: dishes 4
+    400110: dishes 5
+    400112: dishes 6
+    400114: dishes 7
+    400116: dishes 8
+    400118: dishes 9
+    400120: flower
+    400122: flower02
+    400124: flowerleaves
+    400126: flowervase
+    400128: glass-cup
+    400130: glass-cup 1
+    400132: glass-cup 2
+    400134: glass-cup 3
+    400136: glass-cup 4
+    400138: glass-cup 5
+    2300000: chairlegs
+    2300002: chairlegs 1
+    2300004: chairlegs 10
+    2300006: chairlegs 11
+    2300008: chairlegs 12
+    2300010: chairlegs 13
+    2300012: chairlegs 14
+    2300014: chairlegs 15
+    2300016: chairlegs 16
+    2300018: chairlegs 17
+    2300020: chairlegs 2
+    2300022: chairlegs 3
+    2300024: chairlegs 4
+    2300026: chairlegs 5
+    2300028: chairlegs 6
+    2300030: chairlegs 7
+    2300032: chairlegs 8
+    2300034: chairlegs 9
+    2300036: Chairsurface01
+    2300038: Chairsurface02
+    2300040: Chairsurface03
+    2300042: Chairsurface04
+    2300044: Chairsurface05
+    2300046: Chairsurface06
+    2300048: Chopstick01
+    2300050: Chopstick02
+    2300052: Chopstick03
+    2300054: Chopstick04
+    2300056: Chopstick05
+    2300058: Chopstick06
+    2300060: Chopstick07
+    2300062: Chopstick08
+    2300064: Chopstick09
+    2300066: Chopstick10
+    2300068: Chopstick11
+    2300070: Chopstick12
+    2300072: deskleg01
+    2300074: deskleg02
+    2300076: deskleg03
+    2300078: deskleg04
+    2300080: desksurface
+    2300082: dishes
+    2300084: dishes 1
+    2300086: dishes 10
+    2300088: dishes 11
+    2300090: dishes 12
+    2300092: dishes 13
+    2300094: dishes 14
+    2300096: dishes 15
+    2300098: dishes 16
+    2300100: dishes 17
+    2300102: dishes 2
+    2300104: dishes 3
+    2300106: dishes 4
+    2300108: dishes 5
+    2300110: dishes 6
+    2300112: dishes 7
+    2300114: dishes 8
+    2300116: dishes 9
+    2300118: flower
+    2300120: flower02
+    2300122: flowerleaves
+    2300124: flowervase
+    2300126: glass-cup
+    2300128: glass-cup 1
+    2300130: glass-cup 2
+    2300132: glass-cup 3
+    2300134: glass-cup 4
+    2300136: glass-cup 5
+    3300000: chairlegs
+    3300002: chairlegs 1
+    3300004: chairlegs 10
+    3300006: chairlegs 11
+    3300008: chairlegs 12
+    3300010: chairlegs 13
+    3300012: chairlegs 14
+    3300014: chairlegs 15
+    3300016: chairlegs 16
+    3300018: chairlegs 17
+    3300020: chairlegs 2
+    3300022: chairlegs 3
+    3300024: chairlegs 4
+    3300026: chairlegs 5
+    3300028: chairlegs 6
+    3300030: chairlegs 7
+    3300032: chairlegs 8
+    3300034: chairlegs 9
+    3300036: Chairsurface01
+    3300038: Chairsurface02
+    3300040: Chairsurface03
+    3300042: Chairsurface04
+    3300044: Chairsurface05
+    3300046: Chairsurface06
+    3300048: Chopstick01
+    3300050: Chopstick02
+    3300052: Chopstick03
+    3300054: Chopstick04
+    3300056: Chopstick05
+    3300058: Chopstick06
+    3300060: Chopstick07
+    3300062: Chopstick08
+    3300064: Chopstick09
+    3300066: Chopstick10
+    3300068: Chopstick11
+    3300070: Chopstick12
+    3300072: deskleg01
+    3300074: deskleg02
+    3300076: deskleg03
+    3300078: deskleg04
+    3300080: desksurface
+    3300082: dishes
+    3300084: dishes 1
+    3300086: dishes 10
+    3300088: dishes 11
+    3300090: dishes 12
+    3300092: dishes 13
+    3300094: dishes 14
+    3300096: dishes 15
+    3300098: dishes 16
+    3300100: dishes 17
+    3300102: dishes 2
+    3300104: dishes 3
+    3300106: dishes 4
+    3300108: dishes 5
+    3300110: dishes 6
+    3300112: dishes 7
+    3300114: dishes 8
+    3300116: dishes 9
+    3300118: flower
+    3300120: flower02
+    3300122: flowerleaves
+    3300124: flowervase
+    3300126: glass-cup
+    3300128: glass-cup 1
+    3300130: glass-cup 2
+    3300132: glass-cup 3
+    3300134: glass-cup 4
+    3300136: glass-cup 5
+    4300000: chairlegs
+    4300002: chairlegs
+    4300004: chairlegs
+    4300006: Chairsurface01
+    4300008: chairlegs
+    4300010: Chairsurface02
+    4300012: chairlegs
+    4300014: chairlegs
+    4300016: chairlegs
+    4300018: chairlegs
+    4300020: Chairsurface04
+    4300022: chairlegs
+    4300024: Chairsurface03
+    4300026: chairlegs
+    4300028: chairlegs
+    4300030: chairlegs
+    4300032: Chairsurface05
+    4300034: chairlegs
+    4300036: chairlegs
+    4300038: chairlegs
+    4300040: Chairsurface06
+    4300042: chairlegs
+    4300044: chairlegs
+    4300046: chairlegs
+    4300048: deskleg01
+    4300050: deskleg03
+    4300052: desksurface
+    4300054: deskleg02
+    4300056: deskleg04
+    4300058: glass-cup
+    4300060: glass-cup
+    4300062: glass-cup
+    4300064: glass-cup
+    4300066: glass-cup
+    4300068: glass-cup
+    4300070: Chopstick01
+    4300072: Chopstick02
+    4300074: dishes
+    4300076: dishes
+    4300078: dishes
+    4300080: Chopstick03
+    4300082: Chopstick04
+    4300084: dishes
+    4300086: dishes
+    4300088: dishes
+    4300090: Chopstick05
+    4300092: Chopstick06
+    4300094: dishes
+    4300096: dishes
+    4300098: dishes
+    4300100: dishes
+    4300102: dishes
+    4300104: dishes
+    4300106: Chopstick07
+    4300108: Chopstick08
+    4300110: dishes
+    4300112: dishes
+    4300114: dishes
+    4300116: Chopstick09
+    4300118: Chopstick10
+    4300120: dishes
+    4300122: dishes
+    4300124: dishes
+    4300126: Chopstick11
+    4300128: Chopstick12
+    4300130: flowervase
+    4300132: flower
+    4300134: flowerleaves
+    4300136: flower02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
